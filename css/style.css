@@ -1,0 +1,62 @@
+#name{
+    width: 400px;
+}
+
+#data{
+    width: 408px;
+}
+
+#selectEvents{
+   margin-left: 100px;
+}
+
+.control-label{
+    width: 100px;
+}
+
+.center{
+    margin: 0 70px;
+}
+#header{
+    height: 100px;
+}
+
+
+#okUser, #okEvent, #okTime, #editNewEvent, #return{
+    margin-left: 190px;
+    width: 70px;
+}
+
+#errors{
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+#time1{
+    width: 180px;
+}
+
+#time2{
+    width: 200px;
+}
+
+#newEvents{
+    width: 467px;
+    height: 100px;
+}
+
+.centerEdit{
+    margin: 0 130px;
+}
+
+#return{
+    margin-left: 190px;
+    width: 110px;
+}
+
+#errorsEdit{
+    height: 30px;
+    margin: auto;
+    text-align: center;
+}
